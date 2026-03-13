@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2026-03-13 13:16:18",
+    "ticker": "BTC-USD ",
+    "action": "VETOED",
+    "reasons": [
+      "Extreme Fear detected (score: 15) \u2014 market is panicking"
+    ],
+    "balance": 1000.0,
+    "trade": null
+  }
+]
